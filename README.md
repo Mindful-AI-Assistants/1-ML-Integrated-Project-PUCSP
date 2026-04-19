@@ -71,6 +71,27 @@ Neural Networks • Deep Learning • Real-world Applications
 <!-- ========= END Institucional INFO ========= -->
 
 
+<br><br>
+
+
+
+<!-- ========= START Confidentiality statement ========= -->
+<br><br>
+
+> [!NOTE]
+> 
+> ⚠️ Heads Up
+>
+> * Projects may be made [publicly available]() whenever possible  
+> * Focus on **hands-on experience** with real datasets  
+> * Activities follow [**PUC-SP academic and ethical guidelines**]()  
+> * Restricted content remains **confidential**  
+> <br>
+
+<br><br>
+<!-- ========= End Confidentiality statement ========= -->
+
+
 
 <!-- ========= START BADGES ========= -->
 
@@ -82,10 +103,9 @@ Neural Networks • Deep Learning • Real-world Applications
   <img src="https://img.shields.io/badge/RL-Reinforcement%20Learning-76D7C4" />
 </p>
 
-
 <br><br>
 
-<br><br>
+
 <!-- ========= END START BADGES ========= -->
 
 
@@ -97,101 +117,48 @@ Neural Networks • Deep Learning • Real-world Applications
 
 <br>
 
-This repository roadmap outlines the learning journey of the Machine Learning course, guiding students from fundamental concepts to advanced neural network architectures in a clear and structured way.
+This repository outlines a structured journey from **foundations to advanced neural architectures**, combining theory, hands-on practice, and real-world applications.
 
 <br>
 
-The first phase focuses on **Multilayer Perceptrons (MLPs)**, establishing a solid foundation on how neural networks learn from data through optimization, training, and evaluation. These concepts form the backbone of modern deep learning.
+**Phase I — MLP** → fundamentals, training, evaluation  
+**Phase II — Deep Learning** → CNNs, RNNs, GANs, Reinforcement Learning  
 
 <br>
 
-In the second phase, the course expands into more advanced architectures, including **Convolutional Neural Networks (CNNs)** for computer vision, **Recurrent Neural Networks (RNNs)** for sequential data, **Generative Adversarial Networks (GANs)**, and **Reinforcement Learning (RL)**. Students will work on practical applications using industry-standard frameworks such as PyTorch and TensorFlow.
-
-<br>
-
-The learning path follows a natural progression:<br>
-**foundations → modeling → training → applications**
-
-<br>
-
-By the end of the course, students will be able to design, implement, and evaluate machine learning models, applying them effectively to real-world problems.
+`foundations → modeling → training → applications`
 
 <br><br>
 
 
-## [**Key topics here:**]()
-
-<br>
-
-- [**Neural Networks**:]() Systems inspired by the human brain, composed of interconnected units that learn patterns from data and improve over time.  
-- [**MLP (Multilayer Perceptron)**:]() A foundational neural network architecture with layered structure, used for structured data and basic learning tasks.  
-- [**CNN (Convolutional Neural Networks)**:]() Designed for image data, capable of detecting patterns such as edges, shapes, and objects.  
-- [**Frameworks**:]() PyTorch and TensorFlow provide the tools to build, train, and deploy neural networks efficiently in real-world scenarios.  
-
-<br><br>
-
-#
-
-<br><br>
 <!-- ========= END Repo Introductio ========= -->
 
-
-
-<!-- ========= START Confidentiality statement ========= -->
-
-> [!NOTE]
-> 
-> ⚠️ Heads Up
->
-> * Projects and deliverables may be made [publicly available]() whenever possible.
->   
-> * The course emphasizes [**practical, hands-on experience**]() with real datasets to simulate professional consulting scenarios in the fields of **Machine Learning and Neural Networks** for partner organizations and institutions affiliated with the university.
->   
-> * All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
->   
-> * Any content not authorized for public disclosure will remain [**confidential**]() and securely stored in [private repositories]().  
-> <br>
->
->
-
-<br><br>
 
 <!-- ======================================= END DEFAULT HEADER ⚡️ ===========================================  -->
 
 
+
+
+
 <!-- ======================================= 🏄‍♀️ Start BODY ===========================================  -->
-
-
-
 
 ## [What is Machine Learning?]() 
 
 <br>
 
-Imagine teaching a robot puppy to fetch a ball. You show it many examples (data), it tries, makes mistakes, and gets better each time  without you telling it every single step. That's Machine Learning (ML)! Computers learn patterns from data, like how kids learn by playing and trying.  
+Imagine teaching a robot puppy to fetch a ball. You show it many examples (data), it tries, makes mistakes, and improves over time without explicit instructions.  
 
-
-
-<br><br>
-
-
-<!-- CNN Video -->
-
-
-https://github.com/user-attachments/assets/cc9e4385-386b-4869-93f4-aaba0934f9da
-
+That’s Machine Learning: systems that learn patterns from data.
 
 <br><br>
-
 
 
 ## Table of Contents
 
-
-- [Course Overview](#course-overview)
-- [Core Learning Pillars](#core-learning-pillars)
-- [Architecture Applications](#architecture-applications) 
-- [Weekly Classes - Sub-Repositories](#weekly-classes-sub-repositories)
+- [Course Roadmap — Neural Networks](#course-roadmap--neural-networks)
+- [What is Machine Learning?](#what-is-machine-learning)
+- [Architecture Applications](#architecture-applications---core-learning-pillars)
+- [Neural Networks Course Roadmap](#neural-networks-course-roadmap)
 - [Folder Structure](#folder-structure)
 - [Related Project Repositories](#related-project-repositories)
 - [How to Use This Repo](#how-to-use-this-repo)
@@ -206,26 +173,17 @@ https://github.com/user-attachments/assets/cc9e4385-386b-4869-93f4-aaba0934f9da
 <br><br>
 
 
-## [Course Overview]()
+
+## [Architecture Applications - Core Learning Pillars]()
 
 <br>
 
-Present basic and advanced concepts of artificial neural networks (ANNs), their biological inspiration, and real-world applications. Focus on building practical systems with supervised/unsupervised models like MLPs, CNNs, RNNs, GANs, and Reinforcement Learning. Includes extensionist projects for social good (open-source repos for communities). 
-
-
-<br><br>
-
-
-## [Architecture Applications - Core Learning Pillars]() 
-
-<br>
-
-| [**Acronym**]() | [**Full Name**]()  | [**Primary Application**]()  | [**Real-World Use**]()  |
-|-------------|---------------|-------------------------|-------------------|
-| [**CNN**]()  | Convolutional Neural Network | **Computer Vision** | Image classification, object detection, facial recognition |
-| [**MLP**]() | Multilayer Perceptron | **Classic Neural Networks** | Tabular data prediction, regression, binary classification |
-| [**RNN**]() | Recurrent Neural Network | **Sequential Data** | Text generation, time series forecasting, speech recognition |
-| [**GAN**]() | Generative Adversarial Network | **Data Generation** | Image synthesis, deepfakes, data augmentation, art generation |
+| [**Acronym**]() | [**Full Name**]() | [**Primary Application**]() | [**Real-World Use**]() |
+|-----------------|------------------|-----------------------------|------------------------|
+| [**CNN**]() | Convolutional Neural Network | **Computer Vision** | Image classification<br>Object detection<br>Facial recognition |
+| [**MLP**]() | Multilayer Perceptron | **Classic Neural Networks** | Tabular prediction<br>Regression<br>Binary classification |
+| [**RNN**]() | Recurrent Neural Network | **Sequential Data** | Text generation<br>Time series forecasting<br>Speech recognition |
+| [**GAN**]() | Generative Adversarial Network | **Data Generation** | Image synthesis<br>Data augmentation<br>Creative AI |
 
 
 
@@ -234,15 +192,13 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 
 ##  [Neural Networks Course Roadmap]()
 
-
 <br><br>
 
 > [!TIP]
-> - **Part I** → foco em fundamentos e MLP (base conceitual)
-> - **Part II** → foco em visão computacional, sequência e modelos avançados
-> - Estrutura pensada para progressão: **teoria → prática → aplicações**
-> <br>
->
+> - **Part I** → fundamentos e MLP  
+> - **Part II** → visão computacional e modelos avançados  
+> - Progressão: **teoria → prática → aplicações**
+
 
 <br><br>
 
@@ -283,20 +239,14 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 
 ```mermaid
 graph TD
-    A[📁 Root Repository] --> B[📁 computer-vision<br>CNN]
-    A --> C[📁 classic-nn<br>MLP]
-    A --> D[📁 sequential-data<br>RNN]
-    A --> E[📁 data-generation<br>GAN]
-    A --> F[📁 projects<br>Multi-architecture]
-    A --> G[📁 notebooks<br>Experiments]
+    A[📁 Root Repository] --> B[computer-vision]
+    A --> C[classic-nn]
+    A --> D[sequential-data]
+    A --> E[data-generation]
+    A --> F[projects]
+    A --> G[notebooks]
 
-    style A fill:#0f172a,stroke:#1abc9c,color:#ffffff
-    style B fill:#1abc9c,stroke:#16a085,color:#ffffff
-    style C fill:#1abc9c,stroke:#16a085,color:#ffffff
-    style D fill:#1abc9c,stroke:#16a085,color:#ffffff
-    style E fill:#1abc9c,stroke:#16a085,color:#ffffff
-    style F fill:#48c9b0,stroke:#16a085,color:#ffffff
-    style G fill:#76d7c4,stroke:#16a085,color:#ffffff
+  style A fill:#0f172a,stroke:#1abc9c,color:#ffffff
 ```
 
 <br><br>
@@ -338,17 +288,6 @@ graph TD
 
 <br>
 
-
-| Component | Weight | Type |
-|-----------|--------|------|
-| Weekly Labs | 20% | Individual |
-| Projects | 40% | Team |
-| Presentations | 20% | Team |
-| Final Exam | 20% | Individual |
-
-
-<br>
-
 [-]() [**Seminar 1 (16 Apr 2026)**:]() Individual, weight 0.5. <br>
 [-]() [**Seminar 2 (18 Jun 2026)**:]() Individual, weight 0.5.
 
@@ -372,9 +311,35 @@ Methods: Dialogued lectures, [TF]() / [PyTorch]() projects, active methodologies
 
 <br><br>
 
+⚡️ Getting Started
+
+<br>
+
+```
+git clone https://github.com/yourusername/project.git
+pip install torch torchvision tensorflow pandas numpy matplotlib wandb
+```
+
+
+<br><br>
+
+
+## [Evaluation]()
+
+
+| Component     | Weight |
+| ------------- | ------ |
+| Labs          | 20%    |
+| Projects      | 40%    |
+| Presentations | 20%    |
+| Exam          | 20%    |
+
+
+<br><br>
+
+<br><br>
 
 ## [Tooling Stack]()
-
 
 <br>
 
@@ -385,17 +350,13 @@ pip install torch torchvision tensorflow pandas numpy matplotlib wandb
 
 <br><br>
 
-
-
 ## [Contributing Guidelines]() 
 
-<br>
 
-
-1. Fork → Clone → Branch (feat/cnn-week3)
-2. Add notebooks to architecture folders
-3. Update weekly schedule table
-4. Submit PR with results
+[1.]() Fork → Clone → Branch (feat/cnn-week3)
+[2.]() Add notebooks to architecture folders
+[3.]() Update weekly schedule table
+[4.]() Submit PR with results
 
 
 
