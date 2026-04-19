@@ -180,26 +180,33 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 
 <br><br>
 
-| Week | Date       | Topic Summary                                                                 | Notes/Files Placeholder                  |
-|------|------------|-------------------------------------------------------------------------------|------------------------------------------|
-| 1    | 19 Feb     | Introduction to Machine Learning                                              | `/week-1/intro-ml.ipynb`                 |
-| 2    | 26 Feb     | What are neural networks? Intro to Perceptron. Basic shallow NN model.        | `/week-2/perceptron/`                    |
-| 3    | 05 Mar     | Supervised training: Loss functions, hyperparameter tuning.                   | `/week-3/training/`                      |
-| 4    | 12 Mar     | Building shallow NNs with TensorFlow & PyTorch (dense layers).                | `/week-4/tf-pytorch/`                    |
-| 5    | 19 Mar     | Evaluating shallow NNs: Metrics. Loading data (CSV, HDF5, images).            | `/week-5/evaluation/`                    |
-| 6    | **26 Mar** | **Data preprocessing** (normalization, one-hot). Advanced shallow NNs.        | `/week-6/preprocessing/`                 |
-| 7    | 02 Apr     | Academic recess (Easter). **No class.**                                       | -                                        |
-| 8    | 09 Apr     | Continued: Preprocessing & advanced NNs in PyTorch/TensorFlow.                | `/week-8/advanced-nns/`                  |
-| 9    | 16 Apr     | **Seminar 1**                                                                 | `/seminar-1/`                            |
-| 10   | 23 Apr     | CNNs: Intro, convolutions, pooling, fully connected layers.                   | `/week-10/cnn-intro/`                    |
-| 11   | 30 Apr     | Training CNNs: Loss, optimizers, regularization (dropout, L1/L2), transfer learning. | `/week-11/cnn-training/`           |
-| 12   | 07 May     | CNN apps: Image classification, detection, segmentation. Data aug, visualization. | `/week-12/cnn-apps/`                |
-| 13   | 14 May     | RNNs intro: LSTM/GRU layers, info flow, training.                             | `/week-13/rnns/`                         |
-| 14   | 21 May     | Encoder-Decoder: Machine translation, text generation. Training challenges.   | `/week-14/encoder-decoder/`              |
-| 15   | 28 May     | GANs intro: Generator vs. Discriminator, training.                            | `/week-15/gans/`                         |
-| 16   | 04 Jun     | National Holiday (Corpus Christi). **No class.**                              | -                                        |
-| 17   | 11 Jun     | Reinforcement Learning: Agents, Markov processes, Q-Learning, SARSA.          | `/week-17/rl/`                           |
-| 18   | 18 Jun     | **Seminar 2**                                                                 | `/seminar-2/`                            
+```markdown 
+| Week | Topic Summary                                                                 | Notes/Files Placeholder                  |
+|------|-------------------------------------------------------------------------------|------------------------------------------|
+|      | 🧠 **Part I — MLP (Weeks 1–8)**                                               |                                          |
+| 1    | Introduction to Machine Learning                                              | `/week-1/intro-ml.ipynb`                 |
+| 2    | What are neural networks? Intro to Perceptron. Basic shallow NN (MLP).        | `/week-2/perceptron/`                    |
+| 3    | Supervised training: Loss functions, hyperparameter tuning.                   | `/week-3/training/`                      |
+| 4    | Building shallow NNs (MLP) with TensorFlow & PyTorch (dense layers).          | `/week-4/tf-pytorch/`                    |
+| 5    | Evaluating shallow NNs (MLP): Metrics. Loading data (CSV, HDF5, images).      | `/week-5/evaluation/`                    |
+| 6    | **Data preprocessing** (normalization, one-hot). Advanced MLPs.               | `/week-6/preprocessing/`                 |
+| 7    | Academic recess (Easter). **No class.**                                       | -                                        |
+| 8    | Continued: Preprocessing & advanced MLPs in PyTorch/TensorFlow.               | `/week-8/advanced-nns/`                  |
+|------|-------------------------------------------------------------------------------|------------------------------------------|
+|      | 🖼️ **Part II — CNNs & Advanced Architectures (Week 9+)**                      |                                          |
+| 9    | **Seminar 1**                                                                 | `/seminar-1/`                            |
+| 10   | CNNs: Intro, convolutions, pooling, fully connected layers.                   | `/week-10/cnn-intro/`                    |
+| 11   | Training CNNs: Loss, optimizers, regularization, transfer learning.           | `/week-11/cnn-training/`                 |
+| 12   | CNN applications: Classification, detection, segmentation, augmentation.      | `/week-12/cnn-apps/`                     |
+| 13   | RNNs: LSTM/GRU, sequence modeling, training.                                  | `/week-13/rnns/`                         |
+| 14   | Encoder-Decoder: Machine translation, text generation.                        | `/week-14/encoder-decoder/`              |
+| 15   | GANs: Generator vs. Discriminator, training dynamics.                         | `/week-15/gans/`                         |
+| 16   | National Holiday (Corpus Christi). **No class.**                              | -                                        |
+| 17   | Reinforcement Learning: Q-Learning, SARSA, Markov processes.                  | `/week-17/rl/`                           |
+| 18   | **Seminar 2**                                                                 | `/seminar-2/`                            |
+```
+
+
 
 <br><br>
 
