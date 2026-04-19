@@ -7,8 +7,7 @@
 
 
 #  <p align="center"> 1- 🧠 [Machine Learning]() / [Main Repository]()
-###  <p align="center"> ### Main repo for PUC-SP 5th semester Machine Learning course (2026): weekly classes, PyTorch / TensorFlow notebooks, CNN / RNN / GAN projects, seminars, and extensionist social initiatives by Prof. Roney Coelho.
-
+### <p align="center"> Main repo for PUC-SP 5th semester Machine Learning course (2026): weekly classes, PyTorch / TensorFlow notebooks, CNN / RNN / GAN projects, seminars, and extensionist social initiatives by Prof. Roney Coelho.</p>
 
 <br><br>
 
@@ -273,18 +272,27 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 <br><br>
 
 
-## [Folder Structure]() 
-
+## [Folder Structure]()
 
 <br>
 
-/computer-vision/ ← CNN - Computer Vision <br>
-/classic-nn/ ← MLP - Classic Neural Networks  <br>
-/sequential-data/ ← RNN - Sequential Data <br>
-/data-generation/ ← GAN - Data Generation  <br>
-/projects/ ← Multi-architecture projects <br>
-/notebooks/ ← Demo implementations
+```mermaid
+graph TD
+    A[📁 Root Repository] --> B[📁 computer-vision<br>CNN]
+    A --> C[📁 classic-nn<br>MLP]
+    A --> D[📁 sequential-data<br>RNN]
+    A --> E[📁 data-generation<br>GAN]
+    A --> F[📁 projects<br>Multi-architecture]
+    A --> G[📁 notebooks<br>Experiments]
 
+    style A fill:#0f172a,stroke:#1abc9c,color:#ffffff
+    style B fill:#1abc9c,stroke:#16a085,color:#ffffff
+    style C fill:#1abc9c,stroke:#16a085,color:#ffffff
+    style D fill:#1abc9c,stroke:#16a085,color:#ffffff
+    style E fill:#1abc9c,stroke:#16a085,color:#ffffff
+    style F fill:#48c9b0,stroke:#16a085,color:#ffffff
+    style G fill:#76d7c4,stroke:#16a085,color:#ffffff
+```
 
 <br><br>
 
