@@ -7,16 +7,31 @@
 
 
 #  <p align="center"> 1- 🧠 [Machine Learning]() / [Main Repository]()
-
- 
-### Main repo for PUC-SP 5th semester Machine Learning course (2026): weekly classes, PyTorch / TensorFlow notebooks, CNN / RNN / GAN projects, seminars, and extensionist social initiatives by Prof. Roney Coelho.
+###  <p align="center"> ### Main repo for PUC-SP 5th semester Machine Learning course (2026): weekly classes, PyTorch / TensorFlow notebooks, CNN / RNN / GAN projects, seminars, and extensionist social initiatives by Prof. Roney Coelho.
 
 
 <br><br>
 
+<!-- ========= END REPO TITLE ========= -->
 
 
-<!-- PUC HEADER GIF -->
+<!-- ========= START SPONSORT BADGE ========= -->
+ <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+<br><br>
+<!-- ========= END SPONSORTBADGE ========= -->
+
+
+
+<!-- =========  START PUC HEADER GIF ========= -->
+
+
+<br><br>
+<!-- ========= END SPONSORT BADGE ========= -->
+
+
+<!-- =========  START PUC HEADER GIF ========= -->
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
@@ -24,7 +39,10 @@
 
 
 <br><br>
+<!-- =========  END PUC HEADER GIF ========= -->
 
+
+<!-- ========= START Institucional INFO ========= -->
 
 
 
@@ -42,20 +60,80 @@
 
 
 
+<br><br>
+
+
+<br><br><br>
+<!-- ========= END Institucional INFO ========= -->
+
+
+
+<!-- ========= START BADGES ========= -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MLP-Neural%20Networks-1ABC9C" />
+  <img src="https://img.shields.io/badge/CNN-Computer%20Vision-16A085" />
+  <img src="https://img.shields.io/badge/RNN-Sequential%20Data-48C9B0" />
+  <img src="https://img.shields.io/badge/GAN-Generative%20Models-20B2AA" />
+  <img src="https://img.shields.io/badge/RL-Reinforcement%20Learning-76D7C4" />
+</p>
+
+
+<br><br>
+
+<br><br>
+<!-- ========= END START BADGES ========= -->
+
+
+
+
+
+<!-- ========= START Repo Introductio ========= -->
+## [Course Roadmap — Neural Networks]()
+
+<br>
+
+This repository roadmap outlines the learning journey of the Machine Learning course, guiding students from fundamental concepts to advanced neural network architectures in a clear and structured way.
+
+<br>
+
+The first phase focuses on **Multilayer Perceptrons (MLPs)**, establishing a solid foundation on how neural networks learn from data through optimization, training, and evaluation. These concepts form the backbone of modern deep learning.
+
+<br>
+
+In the second phase, the course expands into more advanced architectures, including **Convolutional Neural Networks (CNNs)** for computer vision, **Recurrent Neural Networks (RNNs)** for sequential data, **Generative Adversarial Networks (GANs)**, and **Reinforcement Learning (RL)**. Students will work on practical applications using industry-standard frameworks such as PyTorch and TensorFlow.
+
+<br>
+
+The learning path follows a natural progression:<br>
+**foundations → modeling → training → applications**
+
+<br>
+
+By the end of the course, students will be able to design, implement, and evaluate machine learning models, applying them effectively to real-world problems.
 
 <br><br>
 
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+## [**Key topics here:**]()
 
+<br>
+
+- [**Neural Networks**:]() Systems inspired by the human brain, composed of interconnected units that learn patterns from data and improve over time.  
+- [**MLP (Multilayer Perceptron)**:]() A foundational neural network architecture with layered structure, used for structured data and basic learning tasks.  
+- [**CNN (Convolutional Neural Networks)**:]() Designed for image data, capable of detecting patterns such as edges, shapes, and objects.  
+- [**Frameworks**:]() PyTorch and TensorFlow provide the tools to build, train, and deploy neural networks efficiently in real-world scenarios.  
 
 <br><br>
-
-<!--Confidentiality statement -->
 
 #
 
-<br><br><br>
+<br><br>
+<!-- ========= END Repo Introductio ========= -->
+
+
+
+<!-- ========= START Confidentiality statement ========= -->
 
 > [!NOTE]
 > 
@@ -72,19 +150,13 @@
 >
 >
 
-
-
 <br><br>
 
-#
-
-<!--END Confidentiality statement -->
+<!-- ======================================= END DEFAULT HEADER ⚡️ ===========================================  -->
 
 
-<br><br><br>
+<!-- ======================================= 🏄‍♀️ Start BODY ===========================================  -->
 
-
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
 
 
 
@@ -93,19 +165,6 @@
 <br>
 
 Imagine teaching a robot puppy to fetch a ball. You show it many examples (data), it tries, makes mistakes, and gets better each time  without you telling it every single step. That's Machine Learning (ML)! Computers learn patterns from data, like how kids learn by playing and trying.  
-
-<br><br>
-
-
-## [**Key topics here:**]()
-
-<br>
-
-
-- [**Neural Networks**:]() Like a brain made of tiny math "neurons" connected together. They guess answers and fix mistakes automatically.  
-- [**MLP (Multilayer Perceptron)**:]() A simple "brain" with layers – input (sees data), hidden (thinks), output (decides). Like stacking Lego blocks to solve puzzles.  
-- [**CNN (Convolutional Neural Networks)**:]() Super for pictures! Spots edges, shapes, then faces – like your eyes scanning a photo. Great for cat vs. dog pics.  
-- [**Frameworks**:]() PyTorch (fast on Apple M-series chips, feels like Python magic) and TensorFlow (Google's tool, runs anywhere). They build these "brains" without supercomputers.
 
 
 
@@ -169,7 +228,7 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 <br><br>
 
 
-##  [Course Week Roadmap — Neural Networks]()
+##  [Neural Networks Course Roadmap]()
 
 
 <br><br>
