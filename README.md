@@ -174,7 +174,7 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 
 <br><br>
 
-[!TIP]
+> [!TIP]
 > - **Part I** → foco em fundamentos e MLP (base conceitual)
 > - **Part II** → foco em visão computacional, sequência e modelos avançados
 > - Estrutura pensada para progressão: **teoria → prática → aplicações**
