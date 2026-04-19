@@ -67,7 +67,7 @@ Neural Networks • Deep Learning • Real-world Applications
 <br><br>
 
 
-<br><br><br>
+
 <!-- ========= END Institucional INFO ========= -->
 
 
@@ -76,7 +76,6 @@ Neural Networks • Deep Learning • Real-world Applications
 
 
 <!-- ========= START Confidentiality statement ========= -->
-<br><br>
 
 > [!NOTE]
 > 
@@ -88,7 +87,7 @@ Neural Networks • Deep Learning • Real-world Applications
 > * Restricted content remains **confidential**  
 > <br>
 
-<br><br>
+<br><br><br><br>
 <!-- ========= End Confidentiality statement ========= -->
 
 
@@ -103,7 +102,8 @@ Neural Networks • Deep Learning • Real-world Applications
   <img src="https://img.shields.io/badge/RL-Reinforcement%20Learning-76D7C4" />
 </p>
 
-<br><br>
+
+<br><br><br><br>
 
 
 <!-- ========= END START BADGES ========= -->
