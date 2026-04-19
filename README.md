@@ -169,42 +169,45 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 <br><br>
 
 
-
-## [Weekly Classes]()
-
-
-<br>
-
-All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/`, etc. Update as classes happen.
+##  [Course Week Roadmap — Neural Networks]()
 
 
 <br><br>
 
-```markdown 
-| Week | Topic Summary                                                                 | Notes/Files Placeholder                  |
-|------|-------------------------------------------------------------------------------|------------------------------------------|
-|      | 🧠 **Part I — MLP (Weeks 1–8)**                                               |                                          |
-| 1    | Introduction to Machine Learning                                              | `/week-1/intro-ml.ipynb`                 |
-| 2    | What are neural networks? Intro to Perceptron. Basic shallow NN (MLP).        | `/week-2/perceptron/`                    |
-| 3    | Supervised training: Loss functions, hyperparameter tuning.                   | `/week-3/training/`                      |
-| 4    | Building shallow NNs (MLP) with TensorFlow & PyTorch (dense layers).          | `/week-4/tf-pytorch/`                    |
-| 5    | Evaluating shallow NNs (MLP): Metrics. Loading data (CSV, HDF5, images).      | `/week-5/evaluation/`                    |
-| 6    | **Data preprocessing** (normalization, one-hot). Advanced MLPs.               | `/week-6/preprocessing/`                 |
-| 7    | Academic recess (Easter). **No class.**                                       | -                                        |
-| 8    | Continued: Preprocessing & advanced MLPs in PyTorch/TensorFlow.               | `/week-8/advanced-nns/`                  |
-|------|-------------------------------------------------------------------------------|------------------------------------------|
-|      | 🖼️ **Part II — CNNs & Advanced Architectures (Week 9+)**                      |                                          |
-| 9    | **Seminar 1**                                                                 | `/seminar-1/`                            |
-| 10   | CNNs: Intro, convolutions, pooling, fully connected layers.                   | `/week-10/cnn-intro/`                    |
-| 11   | Training CNNs: Loss, optimizers, regularization, transfer learning.           | `/week-11/cnn-training/`                 |
-| 12   | CNN applications: Classification, detection, segmentation, augmentation.      | `/week-12/cnn-apps/`                     |
-| 13   | RNNs: LSTM/GRU, sequence modeling, training.                                  | `/week-13/rnns/`                         |
-| 14   | Encoder-Decoder: Machine translation, text generation.                        | `/week-14/encoder-decoder/`              |
-| 15   | GANs: Generator vs. Discriminator, training dynamics.                         | `/week-15/gans/`                         |
-| 16   | National Holiday (Corpus Christi). **No class.**                              | -                                        |
-| 17   | Reinforcement Learning: Q-Learning, SARSA, Markov processes.                  | `/week-17/rl/`                           |
-| 18   | **Seminar 2**                                                                 | `/seminar-2/`                            |
-```
+[!TIP]
+> - **Part I** → foco em fundamentos e MLP (base conceitual)
+> - **Part II** → foco em visão computacional, sequência e modelos avançados
+> - Estrutura pensada para progressão: **teoria → prática → aplicações**
+> <br>
+>
+
+<br><br>
+
+
+
+| Week | Topic Summary                                                                 | Notes/Files                          |
+|------|-------------------------------------------------------------------------------|--------------------------------------|
+|      | 🧠 **Part I — MLP (Foundations)**                                             |                                      |
+| 1    | Intro to Machine Learning                                                     | `/week-1/intro-ml.ipynb`             |
+| 2    | Perceptron & basics of Neural Networks (MLP)                                  | `/week-2/perceptron/`                |
+| 3    | Training fundamentals: Loss & Hyperparameters                                 | `/week-3/training/`                  |
+| 4    | Building MLPs with TensorFlow & PyTorch                                       | `/week-4/tf-pytorch/`                |
+| 5    | Evaluating MLPs: Metrics & data handling                                      | `/week-5/evaluation/`                |
+| 6    | Data preprocessing & feature engineering                                      | `/week-6/preprocessing/`             |
+| 7    | Academic recess (Easter) — No class                                           | —                                    |
+| 8    | Advanced MLPs & preprocessing (PyTorch/TensorFlow)                            | `/week-8/advanced-nns/`              |
+|------|-------------------------------------------------------------------------------|--------------------------------------|
+|      | 🖼️ **Part II — CNNs & Advanced Architectures**                               |                                      |
+| 9    | Seminar 1                                                                     | `/seminar-1/`                        |
+| 10   | CNNs: Convolutions, pooling & architectures                                   | `/week-10/cnn-intro/`                |
+| 11   | Training CNNs: optimization & regularization                                  | `/week-11/cnn-training/`             |
+| 12   | CNN Applications (vision tasks & augmentation)                                | `/week-12/cnn-apps/`                 |
+| 13   | RNNs (LSTM/GRU) — sequence modeling                                          | `/week-13/rnns/`                     |
+| 14   | Encoder–Decoder (translation & generation)                                   | `/week-14/encoder-decoder/`          |
+| 15   | GANs — generative models                                                     | `/week-15/gans/`                     |
+| 16   | Holiday (Corpus Christi) — No class                                          | —                                    |
+| 17   | Reinforcement Learning (Q-Learning, SARSA)                                   | `/week-17/rl/`                       |
+| 18   | Seminar 2                                                                     | `/seminar-2/`                        |
 
 
 
