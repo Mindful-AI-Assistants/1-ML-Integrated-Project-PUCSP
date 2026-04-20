@@ -104,11 +104,7 @@ Neural Networks • Deep Learning • Real-world Applications
 
 
 <br><br><br><br>
-
-
 <!-- ========= END START BADGES ========= -->
-
-
 
 
 <!-- ========= START Repo TIP ========= -->
@@ -117,6 +113,10 @@ Neural Networks • Deep Learning • Real-world Applications
 >
 > High-signal links for learning, building, and understanding modern AI systems.
 >
+> **📘 Core Reading**
+> - [*Hands-On Machine Learning with Scikit-Learn & TensorFlow* — Aurélien Géron]()
+>
+> **🔗 References**
 > - [Stanford Online — AI Programs](https://stanford.io/ai)
 > - [Building LLMs — Yann Dubois (Stanford / Alpaca)](https://youtu.be/9vM4p9NN0Ts?si=ubYz-Q_q3Oewh-4j)
 > - [CS229: Machine Learning — Stanford](https://cs229.stanford.edu)
@@ -131,11 +131,9 @@ Neural Networks • Deep Learning • Real-world Applications
 > <br>
 >
 
+
 <br><br><br><br>
-
 <!-- ========= END Repo TIP ========= -->
-
-
 
 
 
