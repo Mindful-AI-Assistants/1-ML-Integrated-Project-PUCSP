@@ -146,6 +146,10 @@ https://github.com/user-attachments/assets/b937a30a-bb12-449e-b2a9-5d7add9ac488
 
 <br>
 
+> **Reference**  
+> Dubois, Y. (2024). *Introduction to Building Large Language Models* [Video].  
+> Stanford University — CS229 Machine Learning.  
+> Available at: [Watch on YouTube](https://youtu.be/9vM4p9NN0Ts)
 
 <br><br><br><br>
 <!-- ========= END Video building-llms-yann-dubois-stanford-cs229-2024 ========= -->
