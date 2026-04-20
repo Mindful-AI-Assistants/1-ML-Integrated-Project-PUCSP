@@ -111,6 +111,36 @@ Neural Networks • Deep Learning • Real-world Applications
 
 
 
+<!-- ========= START Repo TIP ========= -->
+> [!TIP]
+> ### 🚀 AI Resources
+>
+> High-signal links for learning, building, and understanding modern AI systems.
+>
+> - [Stanford Online — AI Programs](https://stanford.io/ai)
+> - [Building LLMs — Yann Dubois (Stanford / Alpaca)](https://youtu.be/9vM4p9NN0Ts?si=ubYz-Q_q3Oewh-4j)
+> - [CS229: Machine Learning — Stanford](https://cs229.stanford.edu)
+> - [LLMs Intro — Andrej Karpathy](https://youtu.be/zjkBMFhNj_g?si=7eWvh9x_jOQGlnfA)
+> - [Karpathy Blog](https://karpathy.github.io/)
+> - [Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+> - [AI Inference vs Training — Cloudflare](https://www.cloudflare.com/learning/ai/inference-vs-training/)
+> - [RNNs Effectiveness](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+> - [`run.c` (llama2.c)](https://github.com/karpathy/llama2.c/blob/350e04fe35433e6d2941dce5a1f53308f87058eb/run.c)
+>
+> _Signal > noise._
+> <br>
+>
+
+<br><br><br><br>
+
+<!-- ========= END Repo TIP ========= -->
+
+
+
+
+
+
+
 
 <!-- ========= START Repo Introductio ========= -->
 ## [Course Roadmap — Neural Networks]()
