@@ -127,16 +127,28 @@ Neural Networks • Deep Learning • Real-world Applications
 > - [RNNs Effectiveness](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 > - [`run.c` (llama2.c)](https://github.com/karpathy/llama2.c/blob/350e04fe35433e6d2941dce5a1f53308f87058eb/run.c)
 >
+> <br>
 > _Signal > noise._
 > <br>
+><br>
 >
 
+<br><br>
 
-<br><br><br><br>
+#
+
+<br><br>
 <!-- ========= END Repo TIP ========= -->
 
 
+<!-- ========= START Video building-llms-yann-dubois-stanford-cs229-2024 ========= -->
+https://github.com/user-attachments/assets/b937a30a-bb12-449e-b2a9-5d7add9ac488
 
+<br>
+
+
+<br><br><br><br>
+<!-- ========= END Video building-llms-yann-dubois-stanford-cs229-2024 ========= -->
 
 
 
