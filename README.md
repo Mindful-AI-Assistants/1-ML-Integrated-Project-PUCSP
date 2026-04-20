@@ -248,17 +248,17 @@ That’s Machine Learning: systems that learn patterns from data.
 
 
 
-| Week | Topic Summary                                                                 | Notes/Files                          |
+| [Week]() | [Topic Summary]()                                                                 | [Notes/Files]()               |
 |------|-------------------------------------------------------------------------------|--------------------------------------|
 |      | 🧠 **Part I — MLP (Foundations)**                                             |                                      |
-| 1    | Intro to Machine Learning                                                     | `/week-1/intro-ml.ipynb`             |
-| 2    | Perceptron & basics of Neural Networks (MLP)                                  | `/week-2/perceptron/`                |
-| 3    | Training fundamentals: Loss & Hyperparameters                                 | `/week-3/training/`                  |
-| 4    | Building MLPs with TensorFlow & PyTorch                                       | `/week-4/tf-pytorch/`                |
-| 5    | Evaluating MLPs: Metrics & data handling                                      | `/week-5/evaluation/`                |
-| 6    | Data preprocessing & feature engineering                                      | `/week-6/preprocessing/`             |
-| 7    | Academic recess (Easter) — No class                                           | —                                    |
-| 8    | Advanced MLPs & preprocessing (PyTorch/TensorFlow)                            | `/week-8/advanced-nns/`              |
+| 1    | [Intro to Machine Learning]()                                                  | `/week-1/intro-ml.ipynb`             |
+| 2    | [Perceptron & basics of Neural Networks (MLP)]()                                  | `/week-2/perceptron/`                |
+| 3    | [Training fundamentals: Loss & Hyperparameters]()                                 | `/week-3/training/`                  |
+| 4    | [Building MLPs with TensorFlow & PyTorch]()                                        | `/week-4/tf-pytorch/`                |
+| 5    | [Evaluating MLPs: Metrics & data handling]()                                       | `/week-5/evaluation/`                |
+| 6    | [Data preprocessing & feature engineering]()                                       | `/week-6/preprocessing/`             |
+| 7    | [Advanced MLPs & preprocessing (PyTorch/TensorFlow)]()                            | `/week-8/advanced-nns/`              |
+| 8    | [Advanced MLPs, preprocessing, TensorBoard (PyTorch/TensorFlow)]()                             | `/week-8/advanced-nns/`              |
 |------|-------------------------------------------------------------------------------|--------------------------------------|
 |      | 🖼️ **Part II — CNNs & Advanced Architectures**                               |                                      |
 | 9    | Seminar 1                                                                     | `/seminar-1/`                        |
