@@ -391,39 +391,35 @@ pip install torch torchvision tensorflow pandas numpy matplotlib wandb
 <br><br>
 
 
-
-
 ## [Bibliographic References]()
 
 <br>
 
-
 ### * [Core Literature:]()
 
-[-]() Goodfellow et al. Deep Learning (2016) - All architectures  <br>
-[-]() LeCun et al. LeNet CNN (1998) - Computer Vision  <br>
-[-]() Hochreiter LSTM (1997) - Sequential Data  <br>
-[-]() Goodfellow GAN (2014) - Data Generation  <br>
+[-]() Goodfellow et al. *Deep Learning* (2016) — Foundational architectures  <br>
+[-]() LeCun et al. *LeNet CNN* (1998) — Computer Vision  <br>
+[-]() Hochreiter & Schmidhuber. *LSTM* (1997) — Sequential Data  <br>
+[-]() Goodfellow et al. *GANs* (2014) — Data Generation  <br>
 
 <br>
 
-
 ### * [Basic]()
 
-[-]() NETTO, A.; MACIEL, F. *Python for data science and machine learning made simple*. Alta Books, 2021. [ppl-ai-file-upload.s3.amazonaws] <br>
-[-]() SILVA, F. M. da et al. *Artificial Intelligence: Applications in various human activities*. Sagah, 2019. [ppl-ai-file-upload.s3.amazonaws] <br>
-[-]() WITTEN, I. H. et al. *Artificial Intelligence: A machine learning approach*. LTC, 2021. [ppl-ai-file-upload.s3.amazonaws] <br>
-
+[-]() GÉRON, Aurélien. *Hands-On Machine Learning with Scikit-Learn & TensorFlow*. O’Reilly Media, 2019. <br>
+[-]() NETTO, A.; MACIEL, F. *Python for Data Science and Machine Learning Made Simple*. Alta Books, 2021. <br>
+[-]() SILVA, F. M. da et al. *Artificial Intelligence: Applications in Various Human Activities*. Sagah, 2019. <br>
+[-]() WITTEN, I. H. et al. *Artificial Intelligence: A Machine Learning Approach*. LTC, 2021. <br>
 
 <br>
 
 ### * [Complementary]()
 
-[-]() BIFET, A. et al. *Machine learning for data streams*. MIT Press, 2018.  <br>
-[-]() CANO, A. *Social media and machine learning*. IntechOpen, 2020.  <br>
-[-]() HUTTER, F.; KOTTHOFF, L.; VANSCHOREN, J. *Automated machine learning: methods, systems, challenges*. Springer Nature, 2019. <br>
-[-]() SUD, K. et al. *Introduction to data science and machine learning*. IntechOpen, 2020.  <br>
-[-]() THOMAS, C. *Data mining*. IntechOpen, 2018. 
+[-]() BIFET, A. et al. *Machine Learning for Data Streams*. MIT Press, 2018. <br>
+[-]() CANO, A. *Social Media and Machine Learning*. IntechOpen, 2020. <br>
+[-]() HUTTER, F.; KOTTHOFF, L.; VANSCHOREN, J. *Automated Machine Learning: Methods, Systems, Challenges*. Springer Nature, 2019. <br>
+[-]() SUD, K. et al. *Introduction to Data Science and Machine Learning*. IntechOpen, 2020. <br>
+[-]() THOMAS, C. *Data Mining*. IntechOpen, 2018. <br>
 
 
 
