@@ -397,9 +397,9 @@ pip install torch torchvision tensorflow pandas numpy matplotlib wandb
 ## [Contributing Guidelines]() 
 
 
-[1.]() Fork → Clone → Branch (feat/cnn-week3)
-[2.]() Add notebooks to architecture folders
-[3.]() Update weekly schedule table
+[1.]() Fork → Clone → Branch (feat/cnn-week3) <br>
+[2.]() Add notebooks to architecture folders <br>
+[3.]() Update weekly schedule table <br>
 [4.]() Submit PR with results
 
 
