@@ -371,17 +371,16 @@ pip install torch torchvision tensorflow pandas numpy matplotlib wandb
 ## [Evaluation]()
 
 
-| Component     | Weight |
+| [Component]() | [Weight]() |
 | ------------- | ------ |
-| Labs          | 20%    |
-| Projects      | 40%    |
-| Presentations | 20%    |
-| Exam          | 20%    |
+| Labs          | [20%]()    |
+| Projects      | [40%]()    |
+| Presentations | [20%]()    |
+| Exam          | [20%]()    |
 
 
 <br><br>
 
-<br><br>
 
 ## [Tooling Stack]()
 
