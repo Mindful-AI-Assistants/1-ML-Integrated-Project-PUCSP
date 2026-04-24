@@ -261,10 +261,10 @@ That’s Machine Learning: systems that learn patterns from data.
 | 8    | [Advanced MLPs, preprocessing, TensorBoard (PyTorch/TensorFlow)]()                             | `/week-8/advanced-nns/`              |
 |------|-------------------------------------------------------------------------------|--------------------------------------|
 |      | 🖼️ **Part II — CNNs & Advanced Architectures**                               |                                      |
-| 9    | Seminar 1                                                                     | `/seminar-1/`                        |
-| 10   | CNNs: Convolutions, pooling & architectures                                   | `/week-10/cnn-intro/`                |
-| 11   | Training CNNs: optimization & regularization                                  | `/week-11/cnn-training/`             |
-| 12   | CNN Applications (vision tasks & augmentation)                                | `/week-12/cnn-apps/`                 |
+| 9    | [CNNs: Convolutions, pooling & architectures]()                                                                 | `/seminar-1/`                     |
+| 10   | Training CNNs: optimization & regularization                                    | `/week-10/cnn-intro/`                |
+| 11   | Project 1: PyTorch Digit and Letter Classification Oral Presentation                                | `/week-11/cnn-training/`             |
+| 12   | CNN Applications (vision tasks & augmentation)   | Seminar 1                               | `/week-12/cnn-apps/`                 |
 | 13   | RNNs (LSTM/GRU) — sequence modeling                                          | `/week-13/rnns/`                     |
 | 14   | Encoder–Decoder (translation & generation)                                   | `/week-14/encoder-decoder/`          |
 | 15   | GANs — generative models                                                     | `/week-15/gans/`                     |
