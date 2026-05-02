@@ -50,7 +50,7 @@ Neural Networks • Deep Learning • Real-world Applications
 
 
 
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
+<!-- ======================================= Start nstitucional INFOR ===========================================  -->
 
 <br><br>
 
@@ -65,8 +65,6 @@ Neural Networks • Deep Learning • Real-world Applications
 
 
 <br><br>
-
-
 
 <!-- ========= END Institucional INFO ========= -->
 
